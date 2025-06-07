@@ -95,21 +95,6 @@ Seneca-Polytechnic-Deliveries/
     ├── TestFramework.h    # Testing infrastructure
     └── TestData/          # Test scenarios and data
 ```
-
-## 🏗️ Architecture & Implementation
-
-### Core Components
-- **Truck Management** - Multi-route support with capacity tracking
-- **Package Processing** - Validation system with size standards  
-- **Route Optimization** - Shortest path algorithm with Euclidean distance
-- **Smart Assignment** - Multi-criteria selection with load balancing
-
-### Key Algorithms
-- **Pathfinding** - Custom shortest path calculations
-- **Capacity Optimization** - Multi-constraint satisfaction (weight/volume)
-- **Distance Calculation** - Euclidean distance for optimal routing
-- **Load Balancing** - Optimal distribution across available trucks
-
 ### Testing Implementation
 ```c++
 // Sample Test Structure
