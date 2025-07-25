@@ -125,6 +125,9 @@ TEST_METHOD(TestTruckAssignment_Capacity) {
 **Ajaypartap Singh Maan**  
 [GitHub](https://github.com/AjayMaan13) • [LinkedIn](https://linkedin.com/in/ajaypartap-singh-maan) • ajayapsmaanm13@gmail.com
 
+**Manas Gandotra**
+[Linkedin](https://www.linkedin.com/in/manas-gandotra-627a69244/) • manasgandotra@gmail.com
+
 ---
 
 ⭐ **Star if helpful!**
