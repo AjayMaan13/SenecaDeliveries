@@ -1,4 +1,4 @@
-# 🚚 Seneca Polytechnic Deliveries
+# 🚚 Seneca Deliveries
 
 [![C++](https://img.shields.io/badge/C++-11%2B-blue.svg)](https://en.cppreference.com/)
 [![Testing](https://img.shields.io/badge/Tests-100%2B-brightgreen.svg)]()
